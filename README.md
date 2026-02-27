@@ -35,6 +35,4 @@ I am an Information Technology student focused on solving real-world problems by
 
 ### 📊 GitHub Stats:
 
-![Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisneo&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=louisneo&theme=tokyonight)
